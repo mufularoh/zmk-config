@@ -42,7 +42,7 @@
             &trans  &trans    &trans         &trans        &trans        &trans          &trans          &trans           &trans          &trans         &trans      &trans
                                                            &trans        &trans          &tog 3          &trans
             >;
-        }
+        };
         special { // Layer 4
             display-name="Special";
             bindings = <
@@ -51,6 +51,6 @@
     &studio_unlock  &trans    &kp PIPE       &kp COLON     &kp DQT       &kp QMARK       &lt 2 N         &kp LT           &kp GT          &kp CARET      &trans      &studio_unlock 
                                                            &trans        &kp TAB         &trans          &trans 
             >;
-        }
+        };
     };
  };
