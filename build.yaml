@@ -21,3 +21,6 @@
 include:
   - board: nrfmicro_11
     shield: btkb
+    snippet: zmk-usb-logging
+  - board: nrfmicro_11
+    shield: settings_reset
