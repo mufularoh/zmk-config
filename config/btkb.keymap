@@ -12,14 +12,14 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp W  &kp E  &kp R  &lt 4 T  &kp Y  &kp U  &lt 4 I  &kp O  &kp P  &kp LBKT  &kp Q  &kp S  &mt LALT D  &mt LCTRL F  &mt LSHIFT G  &lt 1 H  &lt 1 J  &mt RSHIFT K  &mt RCTRL L  &mt RALT SEMI  &kp SQT  &kp RBKT  &kp A  &kp Z  &kp X  &kp C  &kp V  &lt 2 B  &lt 2 N  &kp M  &kp COMMA  &kp DOT  &kp SLASH  &kp BSLH  &kp ESCAPE  &kp SPACE  &kp ENTER  &kp BSPC
+&kp W  &kp E  &kp R  &lt 4 T  &kp Y  &kp U  &lt 4 I  &kp O  &kp P  &kp LBKT  &kp Q  &kp S  &mt LALT D  &mt LCTRL F  &mt LSHIFT G  &lt 1 H  &lt 1 J  &mt RSHIFT K  &mt RCTRL L  &mt RALT SEMI  &kp SQT  &kp RBKT  &kp A  &kp Z  &kp X  &kp C  &kp V  &lt 2 B  &lt 2 N  &kp M  &kp COMMA  &kp DOT  &kp SLASH  &kp BSLH  &kp SPACE  &kp ESCAPE  &kp ENTER  &kp BSPC
             >;
         };
 
         l1 {
             display-name = "L1";
             bindings = <
-&kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp MINUS  &kp N1  &trans  &kp GRAVE  &kp LBRC  &kp RBRC  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp EQUAL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LPAR  &kp RPAR  &trans  &trans  &kp LGUI  &trans  &kp TAB  &kp F5
+&kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp MINUS  &kp N1  &trans  &kp GRAVE  &kp LBRC  &kp RBRC  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp EQUAL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LPAR  &kp RPAR  &trans  &trans  &trans  &kp LCMD  &kp TAB  &kp F5
             >;
         };
 
